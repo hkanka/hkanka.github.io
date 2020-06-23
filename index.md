@@ -7,5 +7,5 @@ Snoopy ist Charlie Browns Haushund.
 * kann nicht reden
 * verständigt sich mit Gedanken und Tänzen
 
-## Als (Tanz)-Zitat besonders amüssant ist sein: 
-> 'Haha-Ihr-müsst-Schneeschippen-und-ich-nicht'-Tanz
+Als (Tanz)-Zitat besonders amüssant ist sein: 
+> Haha-Ihr-müsst-Schneeschippen-und-ich-nicht-Tanz
